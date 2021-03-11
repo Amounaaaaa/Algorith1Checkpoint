@@ -1,0 +1,39 @@
+
+  img{width: 135px;}
+  .btn-delete{background-color:red; margin: 0;
+    position: relative;
+    top: -44%;}
+ 
+  .like {
+    color:red
+  }
+  .fa-heart{
+    margin-left: -33px;
+  }
+  h6{
+    margin: 12px 97px -50px;
+    width: 21px;
+  }
+  input{        
+    height: 34px;
+    width: 95px;
+    text-align: center;
+    margin: 0px -242px 10px;
+  }
+  .fa-2x{    
+    margin-left: 266px;
+    margin-top: -32px;}
+    .row{
+      height: 121px;
+    }
+    .container
+    {
+      margin-top: 100px;
+    }
+    .nav{
+      display: flex;
+      flex-direction: row;
+    }
+    .card{
+      height: 562px;
+    }

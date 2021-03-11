@@ -1,0 +1,14 @@
+
+  img{width: 265px;}
+  .btn-delete{background-color:red; margin: 0;
+    position: relative;
+    top: -44%;}
+ 
+  .like {
+    color:red
+  }
+  .fa-heart{
+    margin: 0;
+    position: relative;
+    top: -44%;
+  }
